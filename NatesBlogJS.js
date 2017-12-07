@@ -24,6 +24,7 @@ var images = [
     'https://image-private.slidesharecdn.com/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-26-1024.jpg?hdnea=acl=/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-26-1024.jpg*~exp=1512653211~hmac=5ca363a771b4fb58ed8542daec4ecda91f85c91cd52e9590c8a2d24a8053841b&cb=1478284229',
     'https://image-private.slidesharecdn.com/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-27-1024.jpg?hdnea=acl=/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-27-1024.jpg*~exp=1512653211~hmac=4b41ecf0166d3645c3cd3ee5a394c122fbf706b70d8b01750c5503f1f92753f2&cb=1478284229',
     'https://image-private.slidesharecdn.com/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-28-1024.jpg?hdnea=acl=/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-28-1024.jpg*~exp=1512653211~hmac=0d4507534156af27396d3d4ffaf3c011d6c5ac8150be651e0cbd6a9dc2902e4c&cb=1478284229',
+    'https://image-private.slidesharecdn.com/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-1-1024.jpg?hdnea=acl=/5e05b3d6-69d8-4496-9fd1-24d2da54d1b6-161104183021/95/slide-1-1024.jpg*~exp=1512652643~hmac=e733d4c7a83d8dfea02caa2aa47ca6105004990cebc3c5815ac5924d156972b1&cb=1478284229' ,
     ];
 var num = 0;
 function next() {
